@@ -12,3 +12,4 @@ D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example01\obj\Debug\net8.0\refint\Ex
 D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example01\obj\Debug\net8.0\Example01.pdb
 D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example01\obj\Debug\net8.0\Example01.genruntimeconfig.cache
 D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example01\obj\Debug\net8.0\ref\Example01.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example01\obj\Debug\net8.0\Example01.sourcelink.json

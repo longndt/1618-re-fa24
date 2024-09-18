@@ -1,5 +1,7 @@
 ﻿Console.WriteLine("Hello world");
 Console.WriteLine("Programming - 1618");
+Console.WriteLine(2024); //no need to use quotes for numbers
+Console.WriteLine(3.14);
 
 /*
  * Write: print to screen 

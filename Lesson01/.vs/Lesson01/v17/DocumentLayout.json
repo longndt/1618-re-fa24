@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DBA00F-11ED-4BC6-83F1-E817CF9F26F4}|Example02\\Example02.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson01\\example02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DBA00F-11ED-4BC6-83F1-E817CF9F26F4}|Example02\\Example02.csproj|solutionrelative:example02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A54E0A-4FFF-4BAF-BC7F-8C3C128A189F}|Example01\\Example01.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson01\\example01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A54E0A-4FFF-4BAF-BC7F-8C3C128A189F}|Example01\\Example01.csproj|solutionrelative:example01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 49,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\Example02\\Program.cs",
+              "RelativeDocumentMoniker": "Example02\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\Example02\\Program.cs",
+              "RelativeToolTip": "Example02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:18:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\Example01\\Program.cs",
+              "RelativeDocumentMoniker": "Example01\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\Example01\\Program.cs",
+              "RelativeToolTip": "Example01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:13:34.193Z",
+              "EditorCaption": ""
             }
           ]
         }
