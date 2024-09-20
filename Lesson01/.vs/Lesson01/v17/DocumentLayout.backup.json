@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22239D67-B0CE-4501-9E4E-991B5F4D9D8A}|Example08\\Example08.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson01\\example08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22239D67-B0CE-4501-9E4E-991B5F4D9D8A}|Example08\\Example08.csproj|solutionrelative:example08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 49,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\Example08\\Program.cs",
+              "RelativeDocumentMoniker": "Example08\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson01\\Example08\\Program.cs*",
+              "RelativeToolTip": "Example08\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:04:53.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

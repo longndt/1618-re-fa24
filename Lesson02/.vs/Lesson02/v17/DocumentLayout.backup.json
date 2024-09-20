@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AE40F3-6550-4779-BB28-24916EE6D0B7}|Array04\\Array04.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson02\\array04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AE40F3-6550-4779-BB28-24916EE6D0B7}|Array04\\Array04.csproj|solutionrelative:array04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB6428F-3180-4F81-8FFB-027034E73C38}|Array03\\Array03.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson02\\array03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB6428F-3180-4F81-8FFB-027034E73C38}|Array03\\Array03.csproj|solutionrelative:array03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9571FDFD-15A3-4C79-B018-1FB08C98EBB5}|Array02\\Array02.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson02\\array02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9571FDFD-15A3-4C79-B018-1FB08C98EBB5}|Array02\\Array02.csproj|solutionrelative:array02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CBA01C-1421-40B1-87BE-9F4A53E22E4F}|Array01\\Array01.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson02\\array01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CBA01C-1421-40B1-87BE-9F4A53E22E4F}|Array01\\Array01.csproj|solutionrelative:array01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array04\\Program.cs",
+              "RelativeDocumentMoniker": "Array04\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array04\\Program.cs",
+              "RelativeToolTip": "Array04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:28:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array03\\Program.cs",
+              "RelativeDocumentMoniker": "Array03\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array03\\Program.cs",
+              "RelativeToolTip": "Array03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:13:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array02\\Program.cs",
+              "RelativeDocumentMoniker": "Array02\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array02\\Program.cs",
+              "RelativeToolTip": "Array02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:06:45.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array01\\Program.cs",
+              "RelativeDocumentMoniker": "Array01\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson02\\Array01\\Program.cs",
+              "RelativeToolTip": "Array01\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:46:50.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\bin\Debug\net8.0\Example03A.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\bin\Debug\net8.0\Example03A.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\bin\Debug\net8.0\Example03A.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\bin\Debug\net8.0\Example03A.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\bin\Debug\net8.0\Example03A.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\refint\Example03A.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\Example03A.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson01\Example03A\obj\Debug\net8.0\ref\Example03A.dll
