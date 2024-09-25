@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\bin\Debug\net8.0\ErrorHandling.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\bin\Debug\net8.0\ErrorHandling.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\bin\Debug\net8.0\ErrorHandling.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\bin\Debug\net8.0\ErrorHandling.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\bin\Debug\net8.0\ErrorHandling.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\refint\ErrorHandling.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ErrorHandling.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\ErrorHandling\obj\Debug\net8.0\ref\ErrorHandling.dll
