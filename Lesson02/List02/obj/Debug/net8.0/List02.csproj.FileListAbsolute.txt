@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\bin\Debug\net8.0\List02.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\bin\Debug\net8.0\List02.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\bin\Debug\net8.0\List02.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\bin\Debug\net8.0\List02.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\bin\Debug\net8.0\List02.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\refint\List02.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\List02.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\List02\obj\Debug\net8.0\ref\List02.dll

@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array01", "Array01\Array01.csproj", "{75CBA01C-1421-40B1-87BE-9F4A53E22E4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array01", "Array01\Array01.csproj", "{75CBA01C-1421-40B1-87BE-9F4A53E22E4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array02", "Array02\Array02.csproj", "{9571FDFD-15A3-4C79-B018-1FB08C98EBB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array02", "Array02\Array02.csproj", "{9571FDFD-15A3-4C79-B018-1FB08C98EBB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array03", "Array03\Array03.csproj", "{CBB6428F-3180-4F81-8FFB-027034E73C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array03", "Array03\Array03.csproj", "{CBB6428F-3180-4F81-8FFB-027034E73C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array04", "Array04\Array04.csproj", "{B5AE40F3-6550-4779-BB28-24916EE6D0B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array04", "Array04\Array04.csproj", "{B5AE40F3-6550-4779-BB28-24916EE6D0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List01", "List01\List01.csproj", "{CA32C97C-705D-4B1C-A10C-DD4D25156A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuBasedProgram", "MenuBasedProgram\MenuBasedProgram.csproj", "{4FC3BEDA-0DB9-470A-8DAD-C1970910912D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List02", "List02\List02.csproj", "{EA434604-4A0E-4010-B8B5-AF893662FF79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{B5AE40F3-6550-4779-BB28-24916EE6D0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5AE40F3-6550-4779-BB28-24916EE6D0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5AE40F3-6550-4779-BB28-24916EE6D0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA32C97C-705D-4B1C-A10C-DD4D25156A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA32C97C-705D-4B1C-A10C-DD4D25156A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA32C97C-705D-4B1C-A10C-DD4D25156A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA32C97C-705D-4B1C-A10C-DD4D25156A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC3BEDA-0DB9-470A-8DAD-C1970910912D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC3BEDA-0DB9-470A-8DAD-C1970910912D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC3BEDA-0DB9-470A-8DAD-C1970910912D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC3BEDA-0DB9-470A-8DAD-C1970910912D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA434604-4A0E-4010-B8B5-AF893662FF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA434604-4A0E-4010-B8B5-AF893662FF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA434604-4A0E-4010-B8B5-AF893662FF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA434604-4A0E-4010-B8B5-AF893662FF79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

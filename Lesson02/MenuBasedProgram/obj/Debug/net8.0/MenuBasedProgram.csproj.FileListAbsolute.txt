@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\bin\Debug\net8.0\MenuBasedProgram.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\bin\Debug\net8.0\MenuBasedProgram.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\bin\Debug\net8.0\MenuBasedProgram.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\bin\Debug\net8.0\MenuBasedProgram.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\bin\Debug\net8.0\MenuBasedProgram.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\refint\MenuBasedProgram.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\MenuBasedProgram.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson02\MenuBasedProgram\obj\Debug\net8.0\ref\MenuBasedProgram.dll

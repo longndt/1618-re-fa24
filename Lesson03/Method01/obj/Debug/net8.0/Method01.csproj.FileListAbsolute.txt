@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\bin\Debug\net8.0\Method01.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\bin\Debug\net8.0\Method01.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\bin\Debug\net8.0\Method01.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\bin\Debug\net8.0\Method01.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\bin\Debug\net8.0\Method01.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\refint\Method01.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\Method01.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson03\Method01\obj\Debug\net8.0\ref\Method01.dll
