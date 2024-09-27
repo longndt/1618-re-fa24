@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

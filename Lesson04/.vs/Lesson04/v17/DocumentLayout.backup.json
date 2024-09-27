@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE04FDCC-426C-4082-B09C-592BC2FB1D69}|Inheritance\\Inheritance.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson04\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE04FDCC-426C-4082-B09C-592BC2FB1D69}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE04FDCC-426C-4082-B09C-592BC2FB1D69}|Inheritance\\Inheritance.csproj|d:\\workspace\\fgw-1618\\1618-re-fa24\\lesson04\\inheritance\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE04FDCC-426C-4082-B09C-592BC2FB1D69}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson04\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson04\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:42:51.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson04\\Inheritance\\Teacher.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Teacher.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re-fa24\\Lesson04\\Inheritance\\Teacher.cs",
+              "RelativeToolTip": "Inheritance\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:40:16.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
