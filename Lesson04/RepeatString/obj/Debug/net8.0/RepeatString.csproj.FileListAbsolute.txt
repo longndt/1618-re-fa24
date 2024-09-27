@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\bin\Debug\net8.0\RepeatString.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\bin\Debug\net8.0\RepeatString.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\bin\Debug\net8.0\RepeatString.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\bin\Debug\net8.0\RepeatString.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\bin\Debug\net8.0\RepeatString.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\refint\RepeatString.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\RepeatString.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\RepeatString\obj\Debug\net8.0\ref\RepeatString.dll

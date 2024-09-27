@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\bin\Debug\net8.0\String.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\bin\Debug\net8.0\String.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\bin\Debug\net8.0\String.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\bin\Debug\net8.0\String.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\bin\Debug\net8.0\String.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\refint\String.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\String.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\String\obj\Debug\net8.0\ref\String.dll

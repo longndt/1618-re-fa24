@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson04\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll
