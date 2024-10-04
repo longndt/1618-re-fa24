@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\bin\Debug\net8.0\LinQ.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\bin\Debug\net8.0\LinQ.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\bin\Debug\net8.0\LinQ.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\bin\Debug\net8.0\LinQ.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\bin\Debug\net8.0\LinQ.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\refint\LinQ.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\LinQ.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\LinQ\obj\Debug\net8.0\ref\LinQ.dll

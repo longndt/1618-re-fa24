@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson06\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
